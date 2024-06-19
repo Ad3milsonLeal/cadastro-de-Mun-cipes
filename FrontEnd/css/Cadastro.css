@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(233, 246, 59);
+}
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: black;
+   
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: aliceblue;
+    background-color: rgb(5, 16, 134);
+    width: 400px;
+}
+button{
+    margin-left: 10px;
+    
+}
+input{
+    list-style: none;
+    justify-content: center;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    width: 250px;
+    color: #000000;
+    border: 1px solid rgb(231, 243, 67);
+    box-shadow: 5px 5px 5px rgb(242, 245, 55);
+    text-shadow: none;
+    font-style: italic;
+    font-weight: bolder;
+    cursor: pointer;
+}
